@@ -3,6 +3,7 @@ import numpy as np
 import sklearn
 from sklearn import linear_model
 
+# LINEAR REGRESSION - model for data with strong correlation
 # This program gets the students grades, study time, failures and absences from csv file
 # and predicts 3rd student grade based on previous grades and all other students grade pattern
 
